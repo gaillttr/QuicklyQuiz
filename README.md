@@ -1,9 +1,9 @@
 # QuicklyQuiz
-## Simple web based quiz application written in php and mysqli. This application can be used to test the knowledge of the player
+Simple web based quiz application written in php and mysqli. This application can be used to test the knowledge of the player
 
 ### Tools Used
-Front-end :  HTML, CSS
-Back-end:   PHP, MySqli
+- Front-end :  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+- Back-end:   PHP, MySqli
 
 ### Installation
 - Upload QuicklyQuiz to the directory of your choice.
